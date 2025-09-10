@@ -22,11 +22,11 @@ The dataset (`agriculture_dataset.csv`) contains information about:
 ## Visualizations  
 
 ### 1. Crop Yield vs Fertilizer Usage  
-![Crop Yield by Fertilizer](images/crop_yield_fertilizer.png)  
+![Crop Yield by Fertilizer](images/histogram.png)  
 
 ### 2. Water Usage by Irrigation Type  
-![Water Usage by Irrigation Type](images/water_usage_irrigation.png)  
+![Water Usage by Irrigation Type](images/heatmap.png)  
 
 ### 3. Yield Distribution Across Crops  
-![Yield Distribution](images/yield_distribution.png)  
+![Yield Distribution](images/barchart.png)  
 
