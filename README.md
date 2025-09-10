@@ -21,12 +21,15 @@ The dataset (`agriculture_dataset.csv`) contains information about:
 
 ## Visualizations  
 
-### 1. Crop Yield vs Fertilizer Usage  
-![Crop Yield by Fertilizer](images/histogram.png)  
+### 1. Distribution of Crop Yield  
+A histogram with KDE showing the distribution of crop yields (tons).
+![Crop Yield by Fertilizer](Visualizations/histogram.png)  
 
-### 2. Water Usage by Irrigation Type  
-![Water Usage by Irrigation Type](images/heatmap.png)  
+### 2. Correlation Heatmap
+A heatmap showing correlations between farm area, fertilizer, pesticide, yield, and water usage.  
+![Water Usage by Irrigation Type](Visualizations/heatmap.png)  
 
-### 3. Yield Distribution Across Crops  
-![Yield Distribution](images/barchart.png)  
+### 3. Feature Importance (Random Forest Model)
+A bar chart highlighting the most important features affecting crop yield using Random Forest.
+![Yield Distribution](Visualizations/barchart.png)  
 
